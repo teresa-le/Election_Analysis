@@ -30,4 +30,4 @@ The purpose of the audit analysis is to certify the election results for a seat 
 
 ## Election Audit Summary 
 
-This script makes certifying the results of the election significantly faster; so long as there are no errors in the script, the results will always be accurate and free of human error. The election commission can adapt and use this script for other types of elections e.g. senators and other levels of government e.g. municipal level. 
+This script makes certifying the results of the election significantly faster; so long as there are no errors in the script, the results will always be accurate and free of human error. The election commission can adapt and use this script for other types of elections e.g. U.S. Senate and other levels of government e.g. municipal level. 
